@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Praveenraj3537
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning python along with machine learning 
+- 🌱 I’m Pythoniast with Machine Learning and Deep Learning enthusiast 
 - 💞️ I’m looking for job  ...
 - 📫 How to reach me: pattar.praveenraj3537@gmail.com
 
