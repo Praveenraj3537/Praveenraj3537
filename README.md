@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Praveenraj3537
+- 👋 Hi, I’m Praveenraj Pattar
 - 🌱 I’m Pythoniast with Machine Learning and Deep Learning enthusiasm.
 - 👀 I’m looking for job  ...
 - 📫 How to reach me: pattar.praveenraj3537@gmail.com 
