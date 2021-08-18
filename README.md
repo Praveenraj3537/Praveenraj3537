@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Praveenraj Pattar, **worked** as Assistant Professor @KLE Technological University, Hubli. Now diving into **Software Industry for better career**.
-- 🌱 I’m Pythoniast with Machine Learning and Deep Learning enthusiasm.
-- 👀 I’m looking for job  ...
+- 🌱 I’m FullStack Devloper and Pythoniast with Machine Learning and Deep Learning enthusiasm.
 - 📫 How to reach me: pattar.praveenraj3537@gmail.com 
 
 <!---
