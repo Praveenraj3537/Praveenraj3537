@@ -8,11 +8,6 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Praveenraj3537&repo=Praveenraj3537)](https://github.com/Praveenraj3537/Praveenraj3537)
-
-
-
 ![Praveenraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=Praveenraj3537&show_icons=true&theme=great-gatsby)
 
 
