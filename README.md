@@ -1,4 +1,4 @@
-- 👋 Hi, I’m **Praveenraj Pattar**, worked as Assistant Professor @KLE Technological University, Hubli. Now working as FullStack Developer @ **TrakInvest**.
+- 👋 Hi, I’m **Praveenraj Pattar**, worked as Assistant Professor @KLE Technological University, Hubli. Now working as FullStack Developer @ **Bulb and Key**.
 - 🌱 I’m FullStack Developer and Pythoniast with Machine Learning and Deep Learning enthusiasm.
 - 📫 How to reach me: pattar.praveenraj3537@gmail.com 
 
