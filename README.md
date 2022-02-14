@@ -1,5 +1,5 @@
-- 👋 Hi, I’m **Praveenraj Pattar**, working as FullStack Developer @ **Nonceblox**.
-- 🌱 I’m FullStack Developer and Pythoniast with Machine Learning and Deep Learning enthusiasm.
+- 👋 Hi, I’m **Praveenraj Pattar**, working as Full Stack Engineer @ **Nonceblox**.
+- 🌱 I’m FullStack Engineer and Pythoniast with Machine Learning and Deep Learning enthusiasm.
 - 📫 How to reach me: pattar.praveenraj3537@gmail.com 
 
 <!---
