@@ -1,7 +1,6 @@
 - 👋 Hi, I’m **Praveenraj Pattar**, working as Full Stack Engineer @ **Nonceblox**.
 - 🌱 I’m Full Stack Engineer and Pythoniast with Machine Learning and Deep Learning enthusiasm.
-- 📫 How to reach me: pattar.praveenraj3537@gmail.com 
-- 
+- 📫 How to reach me: pattar.praveenraj3537@gmail.com
 
 <!---
 Praveenraj3537/Praveenraj3537 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
