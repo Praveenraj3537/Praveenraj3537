@@ -13,6 +13,6 @@ You can click the Preview link to take a look at your changes.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Praveenraj3537&langs_count=100&layout=compact)](https://github.com/Praveenraj3537)
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/0b38fc86-ea5d-4fee-81e9-ee1270c35830/deploy-status)](https://app.netlify.com/sites/praveenrajpattar/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/d042d3f2-125d-4aa5-a7d8-0a20d890a3f5/deploy-status)](https://app.netlify.com/sites/praveenrajpattar/deploys)
 
 
