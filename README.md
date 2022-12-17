@@ -1,5 +1,5 @@
-- 🙋 Hi, I’m **Praveenraj Pattar**, working as Full Stack Engineer @ **Nonceblox**.
-- 🌱 I’m Full Stack Engineer with Machine Learning and Deep Learning enthusiasm.
+- 🙋 Hi, I’m **Praveenraj Pattar**, working as Research Engineer @ **Siemens**.
+- 🌱 I’m Full Stack/Research Engineer with Machine Learning and Deep Learning enthusiasm.
 - 📫 How to reach me: pattar.praveenraj3537@gmail.com
 
 <!---
