@@ -1,4 +1,4 @@
-- 🙋 Hi, I’m **Praveenraj Pattar**, working as Research Engineer @ **Siemens**.
+- 🙋 Hi, I’m **Praveenraj Pattar**, working as Assistant Professor in CSE @ **Nagarjuna College of Engineering and Technology**.
 - 🌱 I’m Full Stack/Research Engineer with Machine Learning and Deep Learning enthusiasm.
 - 📫 How to reach me: pattar.praveenraj3537@gmail.com
 
