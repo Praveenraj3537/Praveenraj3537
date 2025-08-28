@@ -1,4 +1,4 @@
-- 🙋 Hi, I’m **Praveenraj Pattar**, working as Assistant Professor in CSE @ **REVA University, Bengaluru-64**.
+- 🙋 Hi, I’m **Praveenraj Pattar**, working as Assistant Professor in School of Computer and Information Technology (C&IT) in AIML Department @ **REVA University, Bengaluru-64**.
 - 🌱 I’m Full Stack/Research Engineer with Machine Learning and Deep Learning enthusiasm.
 - 📫 How to reach me: pattar.praveenraj3537@gmail.com
 
