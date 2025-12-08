@@ -8,6 +8,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Praveenraj3537&theme=apprentice)](https://git.io/streak-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [![Top Langs](https://streak-stats.demolab.com?user=Praveenraj3537&langs_count=100&layout=compact)](https://git.io/streak-stats)
