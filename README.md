@@ -1,5 +1,5 @@
 - 🙋 Hi, I’m **Praveenraj Pattar**, Doctoral Candidate @ **IIIT Bangalore, Bengaluru-100**.
-- 🌱 I’m Full Stack/Research Engineer with Machine Learning and Deep Learning enthusiasm.
+- 🌱 I’m Full Stack/Research Engineer with Machine Learning, Deep Learning, Large Language Model and Medical AI enthusiast.
 - 📫 How to reach me: pattar.praveenraj3537@gmail.com
 
 <!---
