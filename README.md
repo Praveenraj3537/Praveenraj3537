@@ -7,7 +7,7 @@ Praveenraj3537/Praveenraj3537 is a ✨ special ✨ repository because its `READM
 You can click the Preview link to take a look at your changes.
 --->
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Praveenraj3537)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Praveenraj3537&theme=dark&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
 
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/74a5b32a-ee5a-4a21-b0d9-1abb132f7489/deploy-status?branch=main)](https://app.netlify.com/sites/praveenrajpattar/deploys)
